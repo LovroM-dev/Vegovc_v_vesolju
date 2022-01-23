@@ -1,0 +1,55 @@
+canvas {
+	margin: auto;
+	display: block;
+}
+body{
+	font-family:  Helvetica, Arial;
+}
+button{
+	width: 5%;
+	height: 5%;
+	font-size: 20px;
+}
+.menu{
+	margin: auto;
+	position: fixed;
+	background: #ffffff;
+	color: rgb(0, 0, 0);
+	padding: 20px 50px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	text-align: center;
+	
+	width: 100%;
+    height:100%;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+
+  }
+  .lose{
+	
+	  display: none;
+	  
+	  position: center;
+	background: #ffffff;
+	color: rgb(0, 0, 0);
+	padding: 20px 50px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	text-align: center;
+	width: 100%;
+    height: 100%;
+  }
+  .lose100{
+	display: none;
+	  
+	position: center;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 20px 50px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
